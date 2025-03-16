@@ -1,0 +1,6 @@
+transaction_id,customer_id,transaction_amount,transaction_date,payment_method,product_category,quantity,customer_age,customer_location,device_used,ip_address,shipping_address,billing_address,is_fraudulent,account_age_days,transaction_hour
+9b2a3c1e-6f7d-4a5b-8c90-12345ef67890,852,249.99,03/15/2024 08:22,credit card,electronics,1,28,New York,mobile,10.0.0.5,555 Fake Street,123 Main Street,1,120,8
+f0e1d2c3-b4a5-4678-9d01-9abcdef01234,123,19.95,03/16/2024 14:55,stolen credit card,clothing,3,42,Los Angeles,desktop,192.168.1.100,PO Box 1234,PO Box 1234,1,7,14
+1a2b3c4d-5e6f-4789-8a9b-cdef01234567,987,500.0,03/17/2024 23:10,gift card,jewelry,1,31,Chicago,tablet,172.16.0.50,789 Unknown Lane,789 Unknown Lane,1,365,23
+8901234f-5a6b-4c7d-8e9f-fedcba987654,456,75.5,03/18/2024 11:30,prepaid card,books,2,24,Houston,mobile,10.10.10.15,456 Nowhere Rd,456 Nowhere Rd,1,15,11
+5c6d7e8f-9a0b-4123-8d4e-f0abcdef9012,654,1200.0,03/19/2024 18:45,credit card,furniture,1,55,Miami,desktop,192.168.0.200,123 Overseas Hwy,123 Overseas Hwy,1,90,18

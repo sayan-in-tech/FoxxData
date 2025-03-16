@@ -1,0 +1,6 @@
+transaction_id,customer_id,transaction_amount,transaction_date,payment_method,product_category,quantity,customer_age,customer_location,device_used,ip_address,shipping_address,billing_address,is_fraudulent,account_age_days,transaction_hour
+8b29a7f1-9c1d-4a3b-b2e8-5f74c0a3d6e9,887,125.5,03/15/2024 09:22,credit card,electronics,1,28,Port Angelaberg,mobile,10.20.30.40,5789 Smith Road,123 Fake Street,1,7,9
+c1d4e6f8-2b3a-4e5d-9c8b-7a6f5e4d3c2b,42,50.0,04/01/2024 14:30,stolen credit card,clothing,2,61,New York,desktop,192.168.1.100,456 Oak Ave,789 Pine Ln,1,365,14
+5a9b7c3d-8e2f-4g1a-a654-3h2i1j0k9l8m,101,999.99,05/10/2024 23:59,credit card,electronics,1,35,London,mobile,172.16.0.50,10 Downing Street,10 Downing Street,1,1,23
+2f3e5d7c-4b6a-4987-a210-9876543210fe,222,10000.0,06/20/2024 18:00,wire transfer,jewelry,1,48,Paris,desktop,10.0.0.1,1 Rue de Rivoli,1 Rue de Rivoli,1,180,18
+9h8g7f6e-5d4c-4b3a-a123-0fedcba98765,333,100.0,07/31/2024 00:01,gift card,books,10,22,Tokyo,mobile,192.0.2.1,1-1-1 Otemachi,1-1-1 Otemachi,1,30,0
